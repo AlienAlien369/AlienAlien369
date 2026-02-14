@@ -233,10 +233,6 @@ timeline
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100" alt="Coding">
 </div>
 
-<!-- WakaTime Stats - Uncomment after setting up WakaTime -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AlienAlien369&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=e05397&text_color=FFFFFF" alt="WakaTime Stats" />
-</div>
 
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
