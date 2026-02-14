@@ -1,7 +1,7 @@
 <!-- Header Typing Animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A9FEF7&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hey+there!+I'm+Lakshya+Grover+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%9A%80;SAP+ABAP+Specialist+%F0%9F%92%BC;Problem+Solver+%26+Code+Enthusiast+%F0%9F%92%BB" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A9FEF7&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Hey+there!+I'm+Lakshya+Grover+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%9A%80;Problem+Solver+%26+Code+Enthusiast+%F0%9F%92%BB" alt="Typing SVG" />
   </a>
 </div>
 
@@ -18,13 +18,13 @@
   <a href="mailto:groverlakshya.25.lg@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="https://groverlakshya.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://leetcode.com/your-leetcode-profile" target="_blank">
+  <a href="https://leetcode.com/u/lakshya369/" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
   </a>
-  <a href="https://wa.me/your-whatsapp-number" target="_blank">
+  <a href="https://wa.me/8800191819" target="_blank">
     <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </div>
