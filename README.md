@@ -122,12 +122,12 @@ const lakshya = {
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lakshya-Grover&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=e05397&icon_color=e05397&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshya-Grover&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=e05397&text_color=FFFFFF&langs_count=8" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AlienAlien369&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=e05397&icon_color=e05397&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlienAlien369&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=e05397&text_color=FFFFFF&langs_count=8" alt="Top Languages" height="180"/>
 </div>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lakshya-Grover&custom_title=Lakshya's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&area_color=0D1117&title_color=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlienAlien369&custom_title=Lakshya's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&area_color=0D1117&title_color=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 <!-- Divider -->
@@ -189,7 +189,7 @@ const lakshya = {
 ## 🏆 Achievements & Milestones
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lakshya-Grover&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AlienAlien369&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="GitHub Trophies" />
 </p>
 
 <div align="center">
@@ -245,9 +245,9 @@ timeline
 </div>
 
 <!-- WakaTime Stats - Uncomment after setting up WakaTime -->
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=LakshyaGrover&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=e05397&text_color=FFFFFF" alt="WakaTime Stats" />
-</div> -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AlienAlien369&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=e05397&text_color=FFFFFF" alt="WakaTime Stats" />
+</div>
 
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -308,7 +308,7 @@ timeline
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lakshya-Grover&label=Profile%20Views&color=e05397&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=AlienAlien369&label=Profile%20Views&color=e05397&style=for-the-badge" alt="Profile views" />
 </div>
 
 <div align="center">
