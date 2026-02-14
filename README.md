@@ -119,13 +119,6 @@ const lakshya = {
   <img src="https://streak-stats.demolab.com/?user=AlienAlien369&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="GitHub Streak"/>
 </p>
 
-<div align="center">
-  <p align="center">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AlienAlien369&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=e05397&icon_color=e05397&text_color=FFFFFF" alt="GitHub Stats" height="180"/>
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AlienAlien369&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=e05397&text_color=FFFFFF&langs_count=8" alt="Top Languages" height="180"/>
-  </p>
-</div>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlienAlien369&custom_title=Lakshya's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&area_color=0D1117&title_color=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
