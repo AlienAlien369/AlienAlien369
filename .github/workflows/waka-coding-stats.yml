@@ -2,7 +2,6 @@ name: WakaTime Coding Stats
 
 on:
   schedule:
-    # Runs every 6 hours
     - cron: '0 */6 * * *'
   workflow_dispatch:
 
@@ -14,7 +13,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
+        with:
+          fetch-depth: 0  # Full history needed for proper commit
+      
       - name: Update WakaTime Stats
         uses: athul/waka-readme@master
         with:
@@ -24,3 +25,9 @@ jobs:
           TIME_RANGE: last_7_days
           SHOW_TIME: true
           SHOW_TOTAL: true
+          
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
