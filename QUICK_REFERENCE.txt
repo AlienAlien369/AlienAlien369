@@ -1,0 +1,44 @@
+
+╔════════════════════════════════════════════════════════════════╗
+║          GITHUB PROFILE README - QUICK REFERENCE              ║
+╚════════════════════════════════════════════════════════════════╝
+
+🎯 CRITICAL STEPS:
+1. Repo name = Your username (exactly)
+2. Repo must be PUBLIC
+3. Replace "Lakshya-Grover" with YOUR username in README.md
+4. Enable Actions in Settings
+5. Run snake workflow manually first time
+
+🔧 FILES TO EDIT:
+• README.md - Main content (find/replace username)
+• .github/workflows/snake.yml - Already configured
+
+🔗 PLACEHOLDERS TO REPLACE:
+• Lakshya-Grover → YourUsername
+• https://www.linkedin.com/in/lakshya-grover → Your LinkedIn
+• groverlakshya.25.lg@gmail.com → Your Email
+• https://your-portfolio-link.com → Your Portfolio
+• https://leetcode.com/your-leetcode-profile → Your LeetCode
+• https://wa.me/your-whatsapp-number → Your WhatsApp
+
+📊 FEATURES INCLUDED:
+✓ Animated typing header
+✓ Contribution snake animation
+✓ GitHub stats & streaks
+✓ Top languages chart
+✓ Activity graph
+✓ Tech stack with GIFs
+✓ Project showcases
+✓ Career timeline (Mermaid)
+✓ Achievement table
+✓ Random dev quotes
+✓ Profile view counter
+
+⏰ AUTO-UPDATES:
+• Snake animation: Every 12 hours
+• README stats: Daily at midnight UTC
+• WakaTime stats: Every 6 hours (if enabled)
+
+🆘 TROUBLESHOOTING:
+See TROUBLESHOOTING.md or SETUP_INSTRUCTIONS.txt

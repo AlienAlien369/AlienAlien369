@@ -1,0 +1,78 @@
+========================================
+GITHUB PROFILE SETUP INSTRUCTIONS
+========================================
+
+📦 Files Included:
+├── README.md                          # Main profile README (RENAME to your username)
+├── .github/workflows/
+│   ├── snake.yml                      # Contribution snake animation
+│   ├── update-readme.yml              # Auto-update stats
+│   └── waka-coding-stats.yml          # WakaTime integration (optional)
+├── assets/                            # Folder for your images/GIFs
+└── TROUBLESHOOTING.md                 # Setup help guide
+
+🚀 QUICK START:
+
+1. CREATE REPOSITORY:
+   - Go to github.com/new
+   - Name it EXACTLY as your username (e.g., "Lakshya-Grover")
+   - Make it PUBLIC
+   - Check "Add a README file"
+   - Click Create
+
+2. UPLOAD FILES:
+   - Download this zip file
+   - Extract it
+   - Open your new repository on GitHub
+   - Click "Add file" → "Upload files"
+   - Drag and drop ALL files from the extracted folder
+   - Commit changes
+
+3. CUSTOMIZE:
+   - Replace "Lakshya-Grover" with YOUR username everywhere in README.md
+   - Update social links (LinkedIn, Email, Portfolio, LeetCode, WhatsApp)
+   - Add your project links in Featured Projects section
+   - Update project descriptions
+
+4. ENABLE ACTIONS:
+   - Go to Settings → Actions → General
+   - Select "Allow all actions and reusable workflows"
+   - Save
+
+5. RUN SNAKE ANIMATION:
+   - Go to Actions tab
+   - Click "Generate Snake Animation"
+   - Click "Run workflow"
+   - Wait 2-3 minutes
+
+6. VERIFY:
+   - Check that "output" branch is created
+   - Visit your profile to see the animation
+
+⚠️ IMPORTANT NOTES:
+
+- Repository name MUST match your username exactly
+- Repository MUST be public to show on your profile
+- The snake animation runs every 12 hours automatically
+- Stats update daily at midnight UTC
+- WakaTime is optional (requires API key)
+
+🔧 CUSTOMIZATION CHECKLIST:
+
+□ Replace "Lakshya-Grover" with your username
+□ Update LinkedIn URL
+□ Update Email address
+□ Update Portfolio URL
+□ Update LeetCode profile
+□ Update WhatsApp number
+□ Add your project repository links
+□ Add your project demo/live links
+□ Update project descriptions
+□ Update career timeline if needed
+□ Update achievements table
+
+📞 NEED HELP?
+
+See TROUBLESHOOTING.md for detailed help and common issues.
+
+========================================
