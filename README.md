@@ -118,12 +118,14 @@ const lakshya = {
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlienAlien369&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=AlienAlien369&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="GitHub Streak"/>
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlienAlien369&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=e05397&icon_color=e05397&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlienAlien369&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=e05397&text_color=FFFFFF&langs_count=8" alt="Top Languages" height="180"/>
+  <p align="center">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AlienAlien369&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=e05397&icon_color=e05397&text_color=FFFFFF" alt="GitHub Stats" height="180"/>
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AlienAlien369&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=e05397&text_color=FFFFFF&langs_count=8" alt="Top Languages" height="180"/>
+  </p>
 </div>
 
 <p align="center">
@@ -189,18 +191,18 @@ const lakshya = {
 ## 🏆 Achievements & Milestones
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AlienAlien369&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="GitHub Trophies" />
+  <img src="https://streak-stats.demolab.com/?user=AlienAlien369&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="GitHub Streak"/>
 </p>
 
 <div align="center">
 
-| 🎯 Achievement | 📊 Impact | 🏅 Recognition |
-|:---:|:---:|:---:|
+|        🎯 Achievement         |                  📊 Impact                   |      🏅 Recognition      |
+| :--------------------------: | :-----------------------------------------: | :---------------------: |
 | **Performance Optimization** | ⚡ 40% faster queries, 25% lower API latency | Client Excellence Award |
-| **Client Satisfaction** | 🌟 95% satisfaction score | Top Performer Q4 2024 |
-| **Development Speed** | 🚀 20% faster delivery | Agile Champion |
-| **Code Quality** | ✨ 30+ bugs fixed, 15% faster load time | Quality Star |
-| **Hackathon Rank** | 🏆 Top 12/180 participants | Live The Code 2023 |
+|   **Client Satisfaction**    |          🌟 95% satisfaction score           |  Top Performer Q4 2024  |
+|    **Development Speed**     |            🚀 20% faster delivery            |     Agile Champion      |
+|       **Code Quality**       |   ✨ 30+ bugs fixed, 15% faster load time    |      Quality Star       |
+|      **Hackathon Rank**      |          🏆 Top 12/180 participants          |   Live The Code 2023    |
 
 </div>
 
