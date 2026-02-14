@@ -67,9 +67,7 @@ const lakshya = {
 
 <br clear="both">
 
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
+<!-- Tech Stack Section -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Tech Stack & Tools
 
 <p align="center">
@@ -78,9 +76,9 @@ const lakshya = {
   <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="90" alt="Git">
   <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="90" alt="VS Code">
   <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="90" alt="GitHub">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" width="90" alt="JavaScript">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="90" alt="C#">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="90" alt="Database">
+  <img src="https://user-images.githubusercontent.com/74038190/238200441-1a797f46-efe4-41e6-9e75-5303e1bbcbfa.gif" width="90" alt="JavaScript">
+  <img src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" width="90" alt="C#">
+  <img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" width="90" alt="Database">
 </p>
 
 <div align="center">
@@ -190,10 +188,6 @@ const lakshya = {
 
 ## 🏆 Achievements & Milestones
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AlienAlien369&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="GitHub Streak"/>
-</p>
-
 <div align="center">
 
 |        🎯 Achievement         |                  📊 Impact                   |      🏅 Recognition      |
@@ -278,7 +272,7 @@ timeline
   <a href="https://www.linkedin.com/in/lakshya-grover" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="https://groverlakshya.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
@@ -320,3 +314,4 @@ timeline
 **Show some ❤️ by starring ⭐ some of the repositories!**
 
 </div>
+
