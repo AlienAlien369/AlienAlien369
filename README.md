@@ -18,19 +18,19 @@
   <a href="https://github.com/AlienAlien369" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://drive.google.com/file/d/1jNFGKWUSPqrrZdc46V1Z1ntZkHZNLZ7r/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1CNgFkdqbLg0LwVdzHC2hpvuLPIf3QMUU/view" target="_blank">
     <img src="https://img.shields.io/badge/-Resume-EA4335?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
   </a>
   <a href="mailto:groverlakshya.25.lg@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://groverlakshya.netlify.app/" target="_blank">
+  <a href="https://lakshya-grover-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://leetcode.com/u/lakshya369/" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
   </a>
-  <a href="https://wa.me/8800191819" target="_blank">
+  <a href="https://wa.link/ap98tt" target="_blank">
     <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </div>
@@ -157,7 +157,7 @@ const lakshya = {
 <a href="https://github.com/AlienAlien369/Library-Management-System" target="_blank">
 <img src="https://img.shields.io/badge/Code-View%20Repository-blue?style=for-the-badge&logo=github"/>
 </a>
-<a href="https://github.com/AlienAlien369" target="_blank">
+<a href="https://library-management-system-lg.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel"/>
 </a>
 </p>
@@ -174,10 +174,10 @@ const lakshya = {
 </a>
 <br><br>
 <p>
-<a href="https://github.com/AlienAlien369" target="_blank">
+<a href="https://connect-hq.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/Live-Visit%20Site-green?style=for-the-badge&logo=vercel"/>
 </a>
-<a href="https://github.com/AlienAlien369" target="_blank">
+<a href="https://github.com/AlienAlien369/Connect-Hq" target="_blank">
 <img src="https://img.shields.io/badge/Code-Repository-blue?style=for-the-badge&logo=github"/>
 </a>
 </p>
@@ -268,10 +268,10 @@ timeline
   <a href="https://github.com/AlienAlien369" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://drive.google.com/file/d/1jNFGKWUSPqrrZdc46V1Z1ntZkHZNLZ7r/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1CNgFkdqbLg0LwVdzHC2hpvuLPIf3QMUU/view" target="_blank">
     <img src="https://img.shields.io/badge/Resume-View-EA4335?style=for-the-badge&logo=googledrive&logoColor=white"/>
   </a>
-  <a href="https://groverlakshya.netlify.app/" target="_blank">
+  <a href="https://lakshya-grover-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
@@ -314,18 +314,3 @@ timeline
 
 </div>
 
-Last updated: Sun Feb 15 05:12:58 UTC 2026
-Last updated: Mon Feb 16 05:22:56 UTC 2026
-Last updated: Tue Feb 17 05:14:41 UTC 2026
-Last updated: Wed Feb 18 05:16:04 UTC 2026
-Last updated: Thu Feb 19 05:14:16 UTC 2026
-Last updated: Fri Feb 20 05:07:32 UTC 2026
-Last updated: Sat Feb 21 04:53:15 UTC 2026
-Last updated: Sun Feb 22 05:10:10 UTC 2026
-Last updated: Mon Feb 23 05:19:32 UTC 2026
-Last updated: Tue Feb 24 05:14:11 UTC 2026
-Last updated: Wed Feb 25 05:16:35 UTC 2026
-Last updated: Thu Feb 26 05:12:18 UTC 2026
-Last updated: Fri Feb 27 05:05:39 UTC 2026
-Last updated: Sat Feb 28 04:35:09 UTC 2026
-Last updated: Sun Mar  1 05:10:35 UTC 2026
