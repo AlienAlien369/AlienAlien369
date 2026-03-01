@@ -196,33 +196,25 @@ const lakshya = {
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 💼 Professional Journey
+## Work Experience
 
-```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 
-  'primaryColor': '#e05397',
-  'primaryTextColor': '#fff',
-  'primaryBorderColor': '#7C0200',
-  'lineColor': '#F8B229',
-  'secondaryColor': '#006100',
-  'tertiaryColor': '#fff',
-  'fontFamily': 'Fira Code'
-}}}%%
-timeline
-    title Career Progression
-    2020-2024 : Bachelor of Technology
-              : Information Technology
-              : CGPA: 90.06%
-    Jan-Jul 2023 : Frontend Developer Intern
-                 : Cafe Albero
-                 : Led front-end development
-    Feb-Oct 2024 : Technical Trainee
-                 : Acxiom Consulting
-                 : SAP ABAP Specialist
-    Nov 2024-Present : Software Developer
-                     : Binary Semantics
-                     : Full-Stack Development
-```
+### Binary Semantics | SDE - Full Stack
+**Nov 2024 - Present**
+
+- Led end-to-end development of 30+ enterprise web applications serving 5,000+ active users across internal and client-facing systems.
+- Engineered 25+ RESTful APIs and refactored 40+ SQL Server stored procedures, reducing average query execution time by 45% and decreasing API latency by 30%.
+- Designed and enforced JWT/OAuth 2.0 authentication with RBAC and rate-limiting middleware, eliminating unauthorized access incidents in production.
+- Configured IIS-based reverse proxy routing layer to securely expose 10+ internal services, improving system reliability and request handling efficiency.
+- Integrated Google Maps APIs and synchronized IoT data pipelines processing 1,000+ real-time location events daily.
+- Implemented unit testing (80% coverage), centralized logging, and CI workflows, contributing to 99.9% system uptime.
+
+### Acxiom Consulting | .NET Developer
+**Feb 2024 - Oct 2024**
+
+- Contributed to development of 20+ ASP.NET MVC modules used across 3 enterprise projects.
+- Optimized 25+ T-SQL stored procedures using indexing and CTE techniques, improving execution performance by 40%.
+- Prepared 15+ backend APIs handling 500+ daily transactional requests with structured logging and error handling.
+- Integrated 5+ third-party services including payment gateways and SMS APIs using resilient HTTP communication patterns.
 
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
