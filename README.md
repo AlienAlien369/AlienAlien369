@@ -12,8 +12,14 @@
 
 <!-- Social Badges -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/lakshya-grover" target="_blank">
+  <a href="https://linkedin.com/in/lakshya-grover" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/AlienAlien369" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://drive.google.com/file/d/1jNFGKWUSPqrrZdc46V1Z1ntZkHZNLZ7r/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/-Resume-EA4335?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
   </a>
   <a href="mailto:groverlakshya.25.lg@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" />
@@ -39,29 +45,30 @@
 
 ```javascript
 const lakshya = {
-    role: "Full-Stack Developer",
+    role: "Full-Stack Engineer",
     company: "Binary Semantics",
-    location: "New Delhi, India 🇮🇳",
-    code: ["JavaScript", "C#", "C++", "SAP ABAP"],
+    location: "New Delhi, India",
+    code: ["C#", "JavaScript", "TypeScript", "Python", "SQL"],
     technologies: {
         frontEnd: {
-            js: ["React", "Node.js"],
+            js: ["React.js", "TypeScript"],
             css: ["Bootstrap", "Tailwind", "Sass", "Material UI"]
         },
         backEnd: {
-            dotnet: [".NET Core", "ASP.NET"],
-            js: ["Express.js", "Node.js"]
+            dotnet: ["ASP.NET Core", ".NET MVC", ".NET Web APIs"],
+            js: ["Node.js", "Express.js"]
         },
-        databases: ["SQL Server", "MongoDB"],
-        tools: ["Git", "VS Code", "SAP S/4 HANA"]
+        databases: ["SQL Server", "MongoDB", "PostgreSQL", "Redis"],
+        security: ["JWT", "OAuth 2.0", "RBAC", "OWASP Standards"],
+        tools: ["Git", "Azure DevOps", "Visual Studio", "VS Code", "Postman", "SSMS"]
     },
     achievements: {
-        performance: "⚡ Reduced query time by 40%",
-        satisfaction: "🎯 95% client satisfaction",
-        hackathon: "🏆 Top 12 in Live The Code"
+        performance: "Reduced query execution time by 45% and API latency by 30%",
+        reliability: "Contributed to 99.9% uptime with testing and CI workflows",
+        hackathon: "Top 12 in Live The Code Hackathon"
     },
-    currentFocus: "Building scalable enterprise solutions",
-    funFact: "I debug code faster than I solve crosswords! 🎮"
+    currentFocus: "Building secure and scalable enterprise applications",
+    funFact: "I enjoy solving performance bottlenecks in distributed systems."
 };
 ```
 
@@ -84,17 +91,19 @@ const lakshya = {
 <div align="center">
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SAP ABAP](https://img.shields.io/badge/-SAP%20ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 
 ### Frameworks & Libraries
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET MVC](https://img.shields.io/badge/-.NET%20MVC-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -103,10 +112,15 @@ const lakshya = {
 ### Databases & Tools
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![SSMS](https://img.shields.io/badge/-SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 </div>
 
@@ -133,42 +147,42 @@ const lakshya = {
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Library Management System 📚</h3>
+<h3 align="center">Library Management System</h3>
 <div align="center">
-<a href="https://github.com/Lakshya-Grover/library-management-system" target="_blank">
+<a href="https://github.com/AlienAlien369/Library-Management-System" target="_blank">
 <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="100%" alt="LMS Project" style="border-radius: 10px;"/>
 </a>
 <br><br>
 <p>
-<a href="https://github.com/Lakshya-Grover/library-management-system" target="_blank">
+<a href="https://github.com/AlienAlien369/Library-Management-System" target="_blank">
 <img src="https://img.shields.io/badge/Code-View%20Repository-blue?style=for-the-badge&logo=github"/>
 </a>
-<a href="https://your-demo-link.com" target="_blank">
+<a href="https://github.com/AlienAlien369" target="_blank">
 <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel"/>
 </a>
 </p>
-<p><strong>🛠️ MERN Stack • JWT Auth • MongoDB</strong></p>
-<p>Full-featured library system with advanced search algorithms, reducing manual tracking by 90% and improving book discovery speed by 50%</p>
+<p><strong>MERN Stack | JWT Auth | MongoDB</strong></p>
+<p>Developed a full-stack MERN application managing 10,000+ book records with JWT authentication and role-level access control. Improved search efficiency by 50% using MongoDB aggregation pipelines.</p>
 </div>
 </td>
 
 <td width="50%">
-<h3 align="center">Travel World 🌍</h3>
+<h3 align="center">Capture Call - Enterprise Call Management System</h3>
 <div align="center">
-<a href="https://github.com/Lakshya-Grover/travel-world" target="_blank">
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%" alt="Travel World" style="border-radius: 10px;"/>
+<a href="https://github.com/AlienAlien369" target="_blank">
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%" alt="Capture Call" style="border-radius: 10px;"/>
 </a>
 <br><br>
 <p>
-<a href="https://your-live-demo.com" target="_blank">
+<a href="https://github.com/AlienAlien369" target="_blank">
 <img src="https://img.shields.io/badge/Live-Visit%20Site-green?style=for-the-badge&logo=vercel"/>
 </a>
-<a href="https://github.com/Lakshya-Grover/travel-world" target="_blank">
+<a href="https://github.com/AlienAlien369" target="_blank">
 <img src="https://img.shields.io/badge/Code-Repository-blue?style=for-the-badge&logo=github"/>
 </a>
 </p>
-<p><strong>⚛️ React.js • Tailwind CSS • Router</strong></p>
-<p>Responsive travel website with seamless navigation, achieving 70% increase in user engagement and 25% reduction in bounce rate</p>
+<p><strong>React.js | TypeScript | WebSockets | MongoDB</strong></p>
+<p>Architected a full-stack MERN platform handling 500+ concurrent call sessions with WebSocket-based real-time updates. Achieved 99.8% event delivery reliability and reduced dashboard query response time by 35%.</p>
 </div>
 </td>
 </tr>
@@ -185,11 +199,11 @@ const lakshya = {
 
 |        🎯 Achievement         |                  📊 Impact                   |      🏅 Recognition      |
 | :--------------------------: | :-----------------------------------------: | :---------------------: |
-| **Performance Optimization** | ⚡ 40% faster queries, 25% lower API latency | Client Excellence Award |
-|   **Client Satisfaction**    |          🌟 95% satisfaction score           |  Top Performer Q4 2024  |
-|    **Development Speed**     |            🚀 20% faster delivery            |     Agile Champion      |
-|       **Code Quality**       |   ✨ 30+ bugs fixed, 15% faster load time    |      Quality Star       |
-|      **Hackathon Rank**      |          🏆 Top 12/180 participants          |   Live The Code 2023    |
+| **Performance Optimization** | 45% faster query execution, 30% lower API latency | Production Excellence |
+|    **System Reliability**    | 99.9% uptime with 80% test coverage and CI workflows | Engineering Impact |
+|   **Secure Architecture**    | JWT/OAuth2 + RBAC + rate limiting in production | Security-First Delivery |
+|   **Scalable Integrations**  | 1,000+ daily IoT events and 10+ internal services | Platform Reliability |
+|      **Hackathon Rank**      | Top 12/180 participants | Live The Code 2023 |
 
 </div>
 
@@ -229,11 +243,11 @@ const lakshya = {
 <div align="center">
 
 **💬 I'm always excited to discuss:**
-- 🚀 Full-Stack Development & Architecture
-- 💡 Performance Optimization Strategies
-- 🔧 Enterprise Solutions & SAP Integration
-- 🎨 UI/UX Best Practices
-- 🤖 Emerging Technologies & AI Integration
+- Full-Stack Development & Architecture
+- Performance Optimization Strategies
+- Secure Authentication, RBAC & API Architecture
+- Real-Time Systems & WebSocket Integrations
+- Emerging Technologies & AI Integration
 
 </div>
 
@@ -241,8 +255,14 @@ const lakshya = {
   <a href="mailto:groverlakshya.25.lg@gmail.com">
     <img src="https://img.shields.io/badge/Email-groverlakshya.25.lg@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/lakshya-grover" target="_blank">
+  <a href="https://linkedin.com/in/lakshya-grover" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/AlienAlien369" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1jNFGKWUSPqrrZdc46V1Z1ntZkHZNLZ7r/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-View-EA4335?style=for-the-badge&logo=googledrive&logoColor=white"/>
   </a>
   <a href="https://groverlakshya.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
