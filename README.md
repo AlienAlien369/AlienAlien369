@@ -227,10 +227,6 @@ timeline
     2020–2024  : Bachelor of Technology – Information Technology
               : CGPA: 9.06/10
 
-    Jan–Jul 2023  : Frontend Developer Intern
-                  : Cafe Albero
-                  : Led responsive UI development and performance optimization
-
     Feb–Oct 2024  : Software Engineer – .NET & Backend Development
                   : Acxiom Consulting
                   : Designed and optimized RESTful APIs and enterprise applications
