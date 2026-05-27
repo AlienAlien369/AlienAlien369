@@ -1,4 +1,4 @@
-﻿<!-- Header Typing Animation -->
+<!-- Header Typing Animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A9FEF7&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Hey+there!+I'm+Lakshya+Grover+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%9A%80;Problem+Solver+%26+Code+Enthusiast+%F0%9F%92%BB" alt="Typing SVG" />
@@ -194,11 +194,11 @@ const lakshya = {
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## ðŸ† Achievements & Milestones
+## 🏆 Achievements & Milestones
 
 <div align="center">
 
-|        ðŸŽ¯ Achievement         |                       ðŸ“Š Impact                       |      ðŸ… Recognition      |
+|        🎯 Achievement         |                       📊 Impact                       |      🏅 Recognition      |
 | :--------------------------: | :--------------------------------------------------: | :---------------------: |
 | **Performance Optimization** |  45% faster query execution, 30% lower API latency   |  Production Excellence  |
 |    **System Reliability**    | 99.9% uptime with 80% test coverage and CI workflows |   Engineering Impact    |
@@ -211,7 +211,7 @@ const lakshya = {
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## ðŸ’¼ Work Experience
+## 💼 Work Experience
 
 ```mermaid
 %%{init: {'theme':'base', 'themeVariables': { 
@@ -225,14 +225,14 @@ const lakshya = {
 }}}%%
 timeline
     title Career Progression
-    2020â€“2024  : Bachelor of Technology â€“ Information Technology
+    2020–2024  : Bachelor of Technology – Information Technology
               : CGPA: 9.0/10
 
-    Febâ€“Oct 2024  : Software Engineer â€“ .NET & Backend Development
+    Feb–Oct 2024  : Software Engineer – .NET & Backend Development
                   : Acxiom Consulting
                   : Designed and optimized RESTful APIs and enterprise applications
 
-    Nov 2024â€“Present : Software Developer â€“ Full-Stack Engineering
+    Nov 2024–Present : Software Developer – Full-Stack Engineering
                     : Binary Semantics
                     : Architecting scalable backend systems and modern frontend applications
 ```
@@ -242,7 +242,7 @@ timeline
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 
-## ðŸ¤ Let's Connect & Collaborate!
+## 🤝 Let's Connect & Collaborate!
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" alt="Connect">
@@ -250,7 +250,7 @@ timeline
 
 <div align="center">
 
-**ðŸ’¬ I'm always excited to discuss:**
+**💬 I'm always excited to discuss:**
 - Full-Stack Development & Architecture
 - Performance Optimization Strategies
 - Secure Authentication, RBAC & API Architecture
@@ -282,11 +282,11 @@ timeline
 
 <div align="center">
 
-### ðŸ’­ Random Dev Quote
+### 💭 Random Dev Quote
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 
-### ðŸ Contribution Snake
+### 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlienAlien369/AlienAlien369/53fd202d4293b6e3bef146504c333906d9158fc3/github-contribution-grid-snake-dark.svg">
@@ -309,9 +309,9 @@ timeline
 
 <div align="center">
 
-### âš¡ "Code is like humor. When you have to explain it, it's bad." â€“ Cory House
+### ⚡ "Code is like humor. When you have to explain it, it's bad." – Cory House
 
-**Show some â¤ï¸ by starring â­ some of the repositories!**
+**Show some ❤️ by starring ⭐ some of the repositories!**
 
 </div>
 
