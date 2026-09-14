@@ -147,7 +147,7 @@ const lakshya = {
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlienAlien369&custom_title=Lakshya's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&area_color=0D1117&title_color=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://ghchart.rshah.org/e05397/AlienAlien369" alt="GitHub Contribution Chart" width="90%"/>
 </p>
 
 <!-- Divider -->
