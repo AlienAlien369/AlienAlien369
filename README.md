@@ -45,29 +45,34 @@
 
 ```javascript
 const lakshya = {
-    role: "Full-Stack Engineer",
-    company: "Binary Semantics",
+    role: "Software Development Engineer",
+    company: "RGBSI",
     location: "Gurugram, Haryana",
+    experience: "3+ years",
     code: ["C#", "JavaScript", "TypeScript", "Python", "SQL"],
     technologies: {
         frontEnd: {
-            js: ["React.js", "TypeScript"],
+            js: ["React.js 18", "TypeScript"],
             css: ["Bootstrap", "Tailwind", "Sass", "Material UI"]
         },
         backEnd: {
-            dotnet: ["ASP.NET Core", ".NET MVC", ".NET Web APIs"],
-            js: ["Node.js", "Express.js"]
+            dotnet: ["ASP.NET Core (.NET 7/8)", ".NET MVC", ".NET Web APIs"],
+            js: ["Node.js", "Express.js"],
+            python: ["FastAPI"]
         },
+        genAI: ["LangChain", "ChromaDB", "OpenAI GPT-4o", "RAG Pipelines", "Vector Databases", "Prompt Engineering"],
         databases: ["SQL Server", "MongoDB", "PostgreSQL", "Redis"],
+        messaging: ["MQTT", "WebSockets", "REST APIs"],
         security: ["JWT", "OAuth 2.0", "RBAC", "OWASP Standards"],
-        tools: ["Git", "Azure DevOps", "Visual Studio", "VS Code", "Postman", "SSMS"]
+        tools: ["Git", "Azure DevOps", "Docker", "Visual Studio", "VS Code", "Postman", "SSMS"]
     },
     achievements: {
+        ownership: "Leading ground-up build of a Fleet Management System - architecture to delivery",
         performance: "Reduced query execution time by 45% and API latency by 30%",
         reliability: "Contributed to 99.9% uptime with testing and CI workflows",
-        hackathon: "Top 12 in Live The Code Hackathon"
+        hackathon: "Top 12 among 180+ in Live The Code Hackathon"
     },
-    currentFocus: "Building secure, scalable enterprise full-stack applications",
+    currentFocus: "Architecting a Fleet Management System end-to-end, and building RAG pipelines with LangChain + ChromaDB + GPT-4o",
     funFact: "I enjoy solving performance bottlenecks in distributed systems."
 };
 ```
@@ -105,9 +110,16 @@ const lakshya = {
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Material UI](https://img.shields.io/badge/-Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+
+### AI & GenAI
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI%20GPT--4o-412991?style=for-the-badge&logo=openai&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/-ChromaDB-FF6F00?style=for-the-badge&logoColor=white)
+![RAG Pipelines](https://img.shields.io/badge/-RAG%20Pipelines-4B8BBE?style=for-the-badge&logoColor=white)
 
 ### Databases & Tools
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
@@ -187,6 +199,27 @@ const lakshya = {
 </div>
 </td>
 </tr>
+<tr>
+<td width="50%">
+<h3 align="center">RAG Document Intelligence System</h3>
+<div align="center">
+<p>
+<strong>Python | LangChain | ChromaDB | OpenAI GPT-4o | FastAPI | Docker</strong>
+</p>
+<p>Built an end-to-end Retrieval-Augmented Generation pipeline for semantic document search and context-aware Q&A over private knowledge bases. Indexed 10,000+ document chunks in ChromaDB using OpenAI text-embedding-3-small, orchestrated multi-step retrieval/generation chains with LangChain, and exposed the pipeline via async FastAPI endpoints — improving retrieval precision by 40% over baseline keyword search.</p>
+</div>
+</td>
+
+<td width="50%">
+<h3 align="center">Fleet Management System</h3>
+<div align="center">
+<p>
+<strong>ASP.NET Core | React.js | PostgreSQL | Microservices</strong>
+</p>
+<p>Leading the ground-up build of an enterprise fleet management platform at RGBSI — owning database schema design, frontend architecture, backend APIs, and authentication from initial setup through production-ready delivery.</p>
+</div>
+</td>
+</tr>
 </table>
 
 </div>
@@ -200,6 +233,8 @@ const lakshya = {
 
 |        🎯 Achievement         |                       📊 Impact                       |      🏅 Recognition      |
 | :--------------------------: | :--------------------------------------------------: | :---------------------: |
+|   **Product Ownership**      |  Leading ground-up build of a Fleet Management System |  End-to-End Delivery   |
+|      **GenAI / RAG**         | Built RAG pipeline indexing 10K+ chunks, +40% retrieval precision | LangChain + ChromaDB + GPT-4o |
 | **Performance Optimization** |  45% faster query execution, 30% lower API latency   |  Production Excellence  |
 |    **System Reliability**    | 99.9% uptime with 80% test coverage and CI workflows |   Engineering Impact    |
 |   **Secure Architecture**    |   JWT/OAuth2 + RBAC + rate limiting in production    | Security-First Delivery |
@@ -228,13 +263,17 @@ timeline
     2020–2024  : Bachelor of Technology – Information Technology
               : CGPA: 9.0/10
 
-    Feb–Oct 2024  : Software Engineer – .NET & Backend Development
+    Feb–Oct 2024  : .NET Developer
                   : Acxiom Consulting
                   : Designed and optimized RESTful APIs and enterprise applications
 
-    Nov 2024–Present : Software Developer – Full-Stack Engineering
+    Nov 2024–Aug 2026 : Software Development Engineer – Full Stack
                     : Binary Semantics
-                    : Architecting scalable backend systems and modern frontend applications
+                    : Led 30+ enterprise modules serving 5,000+ users; RBAC, WebSockets, microservices
+
+    Aug 2026–Present : Software Development Engineer
+                    : RGBSI
+                    : Leading ground-up build of a Fleet Management System - architecture to delivery
 ```
 
 
@@ -252,10 +291,10 @@ timeline
 
 **💬 I'm always excited to discuss:**
 - Full-Stack Development & Architecture
+- Generative AI, RAG Pipelines & LLM Integration
 - Performance Optimization Strategies
 - Secure Authentication, RBAC & API Architecture
 - Real-Time Systems & WebSocket Integrations
-- Emerging Technologies & AI Integration
 
 </div>
 
