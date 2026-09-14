@@ -17,7 +17,11 @@ jobs:
 
       - name: Update README with latest stats
         run: |
-          echo "Last updated: $(date)" >> README.md
+          sed -i '/^Last updated:/d' README.md
+          # Trim any trailing blank lines left behind before re-adding the marker
+          sed -i -e :a -e '/^\n*$/{$d;N;ba' -e '}' README.md
+          echo "" >> README.md
+          echo "Last updated: $(date -u)" >> README.md
 
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5
