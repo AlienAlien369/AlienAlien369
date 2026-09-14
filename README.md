@@ -328,9 +328,9 @@ timeline
 ### 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlienAlien369/AlienAlien369/53fd202d4293b6e3bef146504c333906d9158fc3/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/AlienAlien369/AlienAlien369/blob/output/github-contribution-grid-snake.gif?raw=true">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AlienAlien369/AlienAlien369/53fd202d4293b6e3bef146504c333906d9158fc3/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlienAlien369/AlienAlien369/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlienAlien369/AlienAlien369/output/github-contribution-grid-snake.gif">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AlienAlien369/AlienAlien369/output/github-contribution-grid-snake.gif">
 </picture>
 
 </div>
