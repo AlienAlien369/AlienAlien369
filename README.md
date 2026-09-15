@@ -18,7 +18,7 @@
   <a href="https://github.com/AlienAlien369" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://drive.google.com/file/d/1NeHoxEZWQiLNKWgsXFn26cD6CPNjv80l/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/12efVsLpcvdh230GukLa1RtsvB9reeus8/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/-Resume-EA4335?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
   </a>
   <a href="mailto:groverlakshya.25.lg@gmail.com">
